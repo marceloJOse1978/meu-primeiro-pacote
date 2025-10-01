@@ -1,6 +1,6 @@
 {
   "name": "marcelo-setmark/meu-primeiro-pacote",
-  "description": "Meu primeiro pacote PHP para Packagist",
+  "description": "Meu primeiro pacote PHP para Packagist asdd",
   "type": "library",
   "license": "MIT",
   "autoload": {
