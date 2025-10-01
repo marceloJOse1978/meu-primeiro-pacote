@@ -1,0 +1,14 @@
+{
+  "name": "marcelo-setmark/meu-primeiro-pacote",
+  "description": "Meu primeiro pacote PHP para Packagist",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "MeuPrimeiroPacote\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
